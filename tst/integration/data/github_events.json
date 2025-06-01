@@ -1309,7 +1309,7 @@
         "fork": true,
         "url": "https://api.github.com/repos/vcovito/QtAV",
         "tags_url": "https://api.github.com/repos/vcovito/QtAV/tags{/tag}",
-        "description": "A media library based on Qt and FFmpeg. Development files for MinGW can be downloaded frome https://sourceforge.net/projects/qtav/files/?",
+        "description": "A media library based on Qt and FFmpeg. Development files for MinGW can be downloaded from https://sourceforge.net/projects/qtav/files/?",
         "merges_url": "https://api.github.com/repos/vcovito/QtAV/merges",
         "forks": 0,
         "language": "C++",
